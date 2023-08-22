@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/no-access-key */
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import './App.css';
 import styled, { keyframes } from 'styled-components';
 import React from 'react';
