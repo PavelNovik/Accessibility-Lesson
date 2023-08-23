@@ -131,7 +131,3 @@ const Field = styled.input`
     outline: 2px solid red;
   }
 `;
-
-
-
-
